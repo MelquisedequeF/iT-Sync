@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "watch:scss":"node-sass -w styles/loading.style.scss styles/loading.style.css"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
